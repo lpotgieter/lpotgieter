@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lpotgieter
+- 👋 Hi, I’m Lizel Potgieter (@lpotgieter)
 - 👀 I’m interested in Evolutionary Biology, Bioinformatics, Arduino things
 - 🌱 I’m currently learning R, and python
-- 💞️ I’m looking to collaborate on comparative genomics and population genomics type projects. I just finished my PhD, so I'm looking for the next thing!
+- 💞️ I’m looking to collaborate on comparative genomics and population genomics type projects. I am currently working as a freelance bioinformatician, so let me know if you would like to hire me! No task is too small
 - 📫 How to reach me: potgieter@evolbio.mpg.de, or Twitter L73217
 
 <!---
